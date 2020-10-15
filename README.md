@@ -27,10 +27,21 @@
 暂不支持多账号，懒得弄
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
+COOKIE获取可以用F12， 然后在network里面获取到
+![](get-cookie.png)
+
+设置完成后
+
+![](after-setting.png)
+
 ## 三、启用Action
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
 2 修改任意文件后提交一次  
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
+
+可以在线创建一个新的文件
+
+![](modify.png)
 
 ## 四、查看运行结果
 Actions > Cloud189Checkin > build  
